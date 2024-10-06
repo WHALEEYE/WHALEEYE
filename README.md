@@ -6,6 +6,6 @@ I'm also a part-time CTF player and have a [CTF team](https://ctftime.org/team/1
 
 Checkout my personal blog [here](https://www.whale3ye.com/)! This has also been open-sourced in my repo [here](https://github.com/WHALEEYE/chaos).
 
-This is my email if you want to contact me for any topic: [zhaoxuanjin2025@u.northwestern.edu](mailto:zhaoxuanjin2025@u.northwestern.edu)
+This is my email if you want to contact me for any topic: [whale3ye@gmail.com](mailto:whale3ye@gmail.com)
 
 [![WHALEEYE's GitHub stats](https://github-readme-stats.vercel.app/api?username=WHALEEYE)](https://github.com/anuraghazra/github-readme-stats)
